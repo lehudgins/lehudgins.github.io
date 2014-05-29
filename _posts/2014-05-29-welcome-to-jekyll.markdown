@@ -13,7 +13,9 @@ Jekyll also offers powerful support for code snippets:
 
 [Welcome to Jekyll!](/jekyll/update/2014/05/29/welcome-to-jekyll/)
 
-![](/media/14%20-%201.jpg)
+![Bond_Villain.jpg](/media/Bond_Villain.jpg)
+![cat knight.jpg](/media/cat knight.jpg)
+
 
 ![kitteh.gif](/media/kitteh.gif)
 
